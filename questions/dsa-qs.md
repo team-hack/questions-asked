@@ -1,18 +1,37 @@
 # Data Structures & Algorithms
 
 - What is the concept of big O notation?
+- What is an algorithm? Can you give a textbook definition? How about a real life definition?
 - Explain the following for time / space complexity:
-  - Linear 
+  - Linear
   - Quadratic
-  - Constant 
-  - Factorial 
+  - Constant
+  - Factorial
   - Logarithmic
   - Exponential
 - What is asymptotic notation?
-- Explain the following thru code, with time & space complexity
+- Explain the following thru code (or code samples), with time & space complexity:
   - Insertion sort
   - Merge sort
   - Quick sort
-  - Binary search 
+  - Binary search
 - What does the term divide and conquer refer to?
 - How do you calculate time complexity of a tree in recursion? (hint how do you get height and width)?
+- What are some data structures you are familiar with?
+- Can you implement any data structures using JavaScript or your favorite programming language?
+  - Array
+  - Linked List
+  - Hash (Associative Array)
+  - Binary Search Tree
+  - Tree vs Tries
+- Explain and give an example in code for each of the following:
+  - Depth first search on a tree
+  - Breadth first search on a tree
+- Explain the following to me as if I were a 5 year old:
+  - What is Dynamic Programming
+  - Greedy Algorithms
+  - Dijkstra's Algorithm
+  - Bellman-Ford algorithm
+  - Floyd Warshall algorithm
+  - NP Completeness
+- Why should companies care about Data Structures & Algorithms so much when it comes to writing software, having engineers who are good at these things? Why do you think Google cares so much?
