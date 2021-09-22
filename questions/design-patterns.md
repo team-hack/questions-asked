@@ -36,3 +36,5 @@ You can also check out Vijay's repo via: https://github.com/vijayxtreme/demo_d_p
   - What is Inversion of Control? [Dylan's Talk](https://www.
     youtube.com/watch?v=L-T0mW1K24Q)
 - Write code samples to explain the patterns mentioned above.
+- Why should we code towards interfaces and not implementations? What does that even mean? (Hint: Common catchphrase you'll hear at conferences).
+  - Why do you think TypeScript can help with JavaScript in terms of following this catchphrase?
